@@ -26,5 +26,5 @@ Mengembangkan Sistem E-Procurement di Kalbe Farma
 
 💰 Project 
 
-Buat web clone dari Komikcast
+Buat web second dari Komikcast
 Preview : https://nanokomik-vip-wahyujati14s-projects.vercel.app/
