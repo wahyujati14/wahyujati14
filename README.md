@@ -4,7 +4,7 @@ Halo! 👋 Saya Wahyuning Jagat Sukmo Jati
 
 Saya seorang Software Developer yang bersemangat dengan pengalaman lebih dari 2 tahun, dengan keahlian di bidang:
 
-Pengembangan Backend & Frontend (PHP, JavaScript, Java, Node.js, ReactJS, Next.js)
+Pengembangan Backend & Frontend (PHP, JavaScript, Java, Node.js, ReactJS)
 
 Manajemen Basis Data (MySQL, PostgreSQL, MongoDB)
 
