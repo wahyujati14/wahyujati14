@@ -1,28 +1,28 @@
-Hi there! 👋 I'm Wahyuning Jagat Sukmo Jati
+Halo! 👋 Saya Wahyuning Jagat Sukmo Jati
 
-🚀 About Me
+🚀 Tentang Saya
 
-I'm a passionate Software Developer with over 2 years of experience, specializing in:
+Saya seorang Software Developer yang bersemangat dengan pengalaman lebih dari 2 tahun, dengan keahlian di bidang:
 
-Backend & Frontend Development (PHP, JavaScript, Java, Node.js, ReactJS)
+Pengembangan Backend & Frontend (PHP, JavaScript, Java, Node.js, ReactJS, Next.js)
 
-Database Management (MySQL, PostgreSQL, MongoDB)
+Manajemen Basis Data (MySQL, PostgreSQL, MongoDB)
 
-UI/UX Design (HTML, CSS, Bootstrap, Figma)
+Desain UI/UX (HTML, CSS, Bootstrap, Figma)
 
-Version Control (Git)
+Kontrol Versi (Git)
 
-Currently, I work at PT. Kalbe Farma through Adi Consulting as a Documentation Programming, where I handle:
+Saat ini, saya bekerja di PT. Kalbe Farma melalui Adi Consulting sebagai Documentation Programming, di mana saya bertanggung jawab untuk:
 
-Creating technical documentation 📑
+Membuat dokumentasi teknis 📑
 
-Enhancing modules & adding new features 🚀
+Meningkatkan modul & menambahkan fitur baru 🚀
 
-Identifying & fixing bugs 🔧
+Mengidentifikasi & memperbaiki bug 🔧
 
-🏗️ Projects & Experience
+🏗️ Proyek & Pengalaman
 
-Developed an E-Procurement System at Kalbe Farma
+Mengembangkan Sistem E-Procurement di Kalbe Farma
 
 💰 Project 
 
