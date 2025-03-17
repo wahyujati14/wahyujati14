@@ -5,8 +5,10 @@ Halo, butuh butuh bantuan?
 - Manajemen Basis Data (MySQL, PostgreSQL, MongoDB)
 
 🏗️ Work
+
 Mengembangkan Sistem E-Procurement di Kalbe Farma (Now)
 
 💰 Project 
+
 Buat web second dari Komikcast
 Preview : https://nanokomik-vip-wahyujati14s-projects.vercel.app/ (Now)
